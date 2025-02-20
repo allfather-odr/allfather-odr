@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @allfather-odr
-- 👀 I’m interested in learning Python at the moment.
-- 🌱 I’m currently learning the basics of Python.
-- 💞️ I’m looking to learn any tips or tricks.
+- 👀 I’m interested in learning Python and JavaScript. 
+- 🌱 I’m currently learning the basics of Python and JavaScript. 
+- 💞️ 🐍🐍🐍🐍🐍
 - :) 
 <!---
 allfather-odr/allfather-odr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
